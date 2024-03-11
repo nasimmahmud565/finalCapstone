@@ -1,0 +1,4 @@
+admin;password
+jafar;jafar
+jafar01;jafar01
+nasim;nasim

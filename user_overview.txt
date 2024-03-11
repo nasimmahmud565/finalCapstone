@@ -1,0 +1,19 @@
+
+******** USERS OVERVIEW ********
+
+Total Number of Users Registered : 4
+Total Number of Tasks That have been generated and tracked : 2
+
+STAT for USER - admin
+Total Number of Tasks That have been assigned : 1
+Percentage of the total number of tasks that have been assigned to that user : 50.0
+Percentage of the tasks assigned to that user that have been completed : 0.0
+Percentage of the tasks assigned to that user that must still be completed :  100.0
+Percentage of the tasks assigned to that user that must still be completed and Overdue:  100.0
+
+STAT for USER - jafar01
+Total Number of Tasks That have been assigned : 1
+Percentage of the total number of tasks that have been assigned to that user : 50.0
+Percentage of the tasks assigned to that user that have been completed : 50.0
+Percentage of the tasks assigned to that user that must still be completed :  0.0
+Percentage of the tasks assigned to that user that must still be completed and Overdue:  0.0

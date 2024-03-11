@@ -1,0 +1,11 @@
+
+******** TASKS MANAGER OVERVIEW ********
+
+Total Number of Tasks That have been generated and tracked : 2
+Total Number of Completed Tasks : 1
+Total Number of Uncompleted Tasks : 1
+Total Number of Tasks that haven't been Completed and Overduew : 1
+Percentage of Tasks that are incomplete : 50.0
+Percentage of Tasks that are Overdue :50.0 
+
+********************************************
